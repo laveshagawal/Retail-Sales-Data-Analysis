@@ -109,4 +109,5 @@ python retail_sales_analysis.py
 * Add sales forecasting using machine learning models.
 * Implement customer segmentation techniques.
 * Deploy the project as a web application.
+* Deploy the project as a web application.
 
